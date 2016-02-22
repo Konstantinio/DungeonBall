@@ -5,7 +5,7 @@ using System.Text;
 
 namespace 
 {
-    class Class1
+    class Class1Test2
     {
     }
 }
